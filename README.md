@@ -53,3 +53,10 @@ This repository contains a step-by-step guide and practical implementation detai
 ## 📂 Project Documentation
 
 The complete methodology, including visual screenshots of the configuration wizards, GPO settings, and network properties, is documented within the project files. This serves as a practical reference for replicating a standard small-to-medium enterprise IT infrastructure.
+
+
+# Author 
+* SAWAN GUPTA
+* Domain - Windows Server 2022
+* LinkedIn - www.linkedin.com/in/sawan-gupta-8817sg
+* Date - 17/06/2026
